@@ -32,15 +32,16 @@ This github showcases some of my financial models, dashboards,and analytical pro
 ## PROJECTS
 
 ### Excel
- ###  1. [https://github.com/Aniorji-Esther/Healthcare-access-in-Africa/blob/main/Mini_wireframe.png)
+ ###  1. [Healthcare access in Africa](https://github.com/Aniorji-Esther/Healthcare-access-in-Africa/blob/main/Mini_wireframe.png)
 
 ### Power BI
- ###  1. [)
- ###  2. [)
- ###  3. [)
+ ###  1. []()
+ ###  2. []()
+ ###  3. []()
 
 ### SQL
- ###  1. [)
+ ###  1. []()
 
 ### Python
- ###  1. [)
+ ###  1. []()
+     
