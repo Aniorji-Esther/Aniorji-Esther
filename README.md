@@ -26,3 +26,21 @@ This github showcases some of my financial models, dashboards,and analytical pro
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ANIORJI-ESTHER.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
+## PROJECTS
+
+### Excel
+ ###  2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
+
+### Power BI
+ ###  1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)
+ ###  2. [Customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
+ ###  3. [Call center trends](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
+
+### SQL
+ ###  1. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)
+
+### Python
+ ###  1. [Online Bookstore Web Scrapping & Analysis](Online_Bookstore_Web_Scrapping.ipynb)
